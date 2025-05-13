@@ -2,6 +2,8 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+In this project, we've all type of navigation, single navigation, bottom tabs & Drawer navigation also,
+If you want to learn more, about customization of bottom tab bar or Drawer navigation, do let me know in issue and comments, I will provide examples of that. 
 ## Get started
 
 1. Install dependencies
