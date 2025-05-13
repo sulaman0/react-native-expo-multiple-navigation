@@ -10,16 +10,7 @@ export default function AuthLayout() {
                 name="index"
             />
             <Stack.Screen
-                name="onboard_addChildScreen"
-            />
-            <Stack.Screen
-                name="onboard_introSlider"
-            />
-            <Stack.Screen
-                name="onboard_questions"
-            />
-            <Stack.Screen
-                name="SignIn"
+                name="index2"
             />
         </Stack>
     );
